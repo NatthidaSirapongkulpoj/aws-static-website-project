@@ -140,6 +140,6 @@ Configured Git user.name and user.email.
 
 ## Author
 
-Natthida Siraphongkulpoj
+Natthida Sirapongkulpoj
 
 Aspiring AWS Cloud Engineer & AWS Solutions Architect
