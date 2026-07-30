@@ -60,8 +60,6 @@ aws-static-website-project
 4. Configure Bucket Policy
 5. Verify Website Endpoint
 
----
-
 ### Live Website
 
 ![Website](screenshots/website-live.png)
@@ -132,4 +130,5 @@ Configured Git user.name and user.email.
 
 Natthida Sirapongkulpoj
 
-Aspiring AWS Cloud Engineer & AWS Solutions Architect
+AWS Certified Solutions Architect - Associate
+
