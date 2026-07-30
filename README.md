@@ -62,16 +62,6 @@ aws-static-website-project
 
 ---
 
-## Screenshots
-
-### Amazon S3 Bucket
-
-![S3 Bucket](screenshots/s3-bucket-created.png)
-
-### Static Website Hosting
-
-![Hosting](screenshots/static-website-hosting.png)
-
 ### Live Website
 
 ![Website](screenshots/website-live.png)
